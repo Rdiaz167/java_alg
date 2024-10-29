@@ -1,5 +1,8 @@
 package _01_is_unique;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class IsUnique {
 
     private static final int NUMBER_OF_CHARS = 128;
